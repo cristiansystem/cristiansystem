@@ -34,8 +34,8 @@
     <strong>Connect with me</strong>
 </p>
 <p align="center">
-    <a href="https://dev.to/https://dev.to/cristiansystem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/cristiansystem" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/cristianrestrepodev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cristianrestrepodev/" height="30" width="40" /></a>
+    <a href="https://dev.to/cristiansystem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/cristiansystem" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/cristianrestrepodev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cristianrestrepodev/" height="30" width="40" /></a>
     <a href="https://medium.com/@cristian.1994.lf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cristian.1994.lf" height="30" width="40" /></a>
 </p>
 
