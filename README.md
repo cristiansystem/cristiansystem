@@ -24,8 +24,6 @@
 
 - 💬 Ask me about **Angular, CSS, Ionic, HTML, JavaScript and more**
 
-- 📫 How to reach me **cristian.1994.lf@gmail.com**
-
 <!-- section -->
 <hr/><br>
 <p align="center">
